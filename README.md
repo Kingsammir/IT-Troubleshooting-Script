@@ -2,7 +2,7 @@
 
 A command-line tool that guides users through diagnosing and resolving common IT issues — step by step.
 
-Built by **Oyalana Samuel** | [LinkedIn](https://linkedin.com) | [Portfolio](https://notion.so)
+Built by **Oyalana Samuel** | [LinkedIn](https://linkedin.com) |
 
 ---
 
